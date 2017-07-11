@@ -1,2 +1,2 @@
 # git-intro
-.idea
+aaaaaa
